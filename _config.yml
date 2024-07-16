@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 落月空间
+title: 个人收藏
 
-tagline: sweven的个人博客
+tagline: sweven的个人收藏
 
 description: >- # used by seo meta and the atom feed
   Record what should be recorded.
